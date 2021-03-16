@@ -1,0 +1,21 @@
+*p{
+    font-style: candara;
+    font-size:30px;
+    color: red;
+    background-color: skyblue;
+    text-align: left;
+}
+ion-img::part(image){
+    width:15%;
+    height: 15%;
+    border-radius: 50%;
+    background-color: slateblue;
+    border: 5px,solid black;
+    float: left;
+}
+*center{
+    color: black;
+    font-style: italic;
+    font-size: 30px;
+    background-color: blueviolet;
+}

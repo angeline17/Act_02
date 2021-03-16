@@ -1,0 +1,24 @@
+ion-img::part(image){
+    width:5%;
+    height:5%;
+    border-radius: 15%;
+    border-color: burlywood;
+    background-color: slateblue;
+    border: 5px,solid black;
+    float: left;
+}
+*button{
+      color: cornflowerblue;
+      font-style: tahoma;
+      font-size: 30px;
+
+}
+*center{
+    color: crimson;
+    font-style: bold;
+    font-size: 20px;
+}
+*input{
+    background-color: cyan;
+    color: black;
+}
